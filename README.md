@@ -1,2 +1,2 @@
-# data-model-registry
-Proof-of-concept data model library, hosts schemas across all GA4GH products
+# schema-registry-api
+Proof-of-concept REST API for schema registry across all GA4GH technical standards

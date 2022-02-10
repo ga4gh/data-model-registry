@@ -7,8 +7,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 
 	@GetMapping("/")
+	// do something with controller
+	/*
 	public String index() {
-		return "This is controller!";
+		
 	}
+	*/
 
 }
